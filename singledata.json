@@ -1,0 +1,65 @@
+{details:[
+    {   "id":"1",
+        "img":"https://i.ibb.co/Q67YJB8/home-page-1.png",
+        "name":"More than a great fitness center",
+        "description":"Our Ys have exercise machines, stretching areas, free weights, and a weight room. But more importantly, they’re a safe, caring place where people of all ages and abilities can strengthen spirit, mind and body.Our Heath is Very Important for better life.",
+        "price": "$500 per Month"
+    }
+    ,
+    {   "id":"2",
+        "img":"https://i.ibb.co/RYpvfrC/home-page-2.png",
+        "name":"Access to Our Virtual Y",
+        "description":"Participate Live with your favorite instructors or try an On-Demand workout when the time is right for you. Whether it’s a current Y favorite or something new to you, our Virtual YMCA matches your lifestyle with a growing calendar of online programs for you and your family.",
+        "price": "$400 per Month"
+    }
+    ,
+    {   "id":"3",
+        "img":"https://i.ibb.co/bBnwcqR/home-page-3.png",
+        "name":"Lap & Family Swim",
+        "description":"The pools at our Ys are staffed with lifeguards and swim instructors to provide a safe environment for members to enjoy exercise swimming as well as recreational swimming. Our locations post pool schedules on their websites to help you plan your activities.",
+        "price": "$250 per Month"
+    }
+    ,
+    {   "id":"4",
+        "img":"https://i.ibb.co/XZNv7Cv/home-page-4.png",
+        "name":"Savings on swim lessons, youth sports, day camp, and more",
+        "description":"Members always pay a reduced fee for any paid programs that are open to non-members.Our Heath is Very Important for better life.Attend as many classes each week as you like and design a fitness schedule that works for you.",
+        "price": "$300 per Month"
+    }
+    ,
+    {   "id":"5",
+        "img":"https://i.ibb.co/ctZgkCW/home-page-5.png",
+        "name":"Free Group & Water Exercise Classes",
+        "description":"Group classes are a great way to get in shape and make new friends, and many are included in your membership. Attend as many classes each week as you like and design a fitness schedule that works for you.",
+        "price": "$10 per Month"
+    }
+    ,
+    {   "id":"6",
+        "img":"https://i.ibb.co/4JXVR5F/home-page-6.png",
+        "name":"Free child care while you workout",
+        "description":"Our Ys offer playful, engaging care while you exercise or connect with others over shared interests. Please be aware that parents must remain in the Y at all times while using Child Watch and Kids club, and hours will vary by location.",
+        "price": "$30 per Month"
+    }
+    ,
+    {   "id":"7",
+        "img":"https://i.ibb.co/qpnkrLy/equipment-pic-7.jpg",
+        "name":"YOGA CLASSES",
+        "description":"At Klub 20, we understand that life can get busy and tiring. That is why we have so many different classes available to you from sun rise to sun set. In the recent years, yoga has gained a huge following and has increased in popularity. Many people are starting to practice yoga and are seeing the great physical and mental benefits",
+        "price": "$360 per Month"
+    }
+    ,
+    {   "id":"8",
+        "img":"https://i.ibb.co/HtBWKC1/jump-pic-num-9.jpg",
+        "name":"AEROBICS CLASSES",
+        "description":"If you enjoy taking classes, then Klub 20 has got you covered. We have group fitness classes all week long and throughout the day. Aerobic classes are meant to make you move, sweat and get a little out of breath – it’s all part of the Klub 20 fun! We host a variety of different classes that cater to all kinds of interests.",
+        "price": "$970 per Month"
+    }
+    ,
+    {   "id":"9",
+        "img":"https://i.ibb.co/xCzzPfm/spinning-pic-no-8.jpg",
+        "name":"PERSONAL TRAINING",
+        "description":"At Klub 20, our personal trainers are here to help all members seeking to make the most out of their workouts. A personal trainer can help you establish a timeline for realistic goals and break them down into smaller components. They are very friendly, knowledgeable and highly motivated in helping you achieve your fitness goals. On your first session",
+        "price": "$780 per Month"
+    }
+
+]}
